@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built with React. Uses OpenWeatherMap's API. Deployed via Netflify [here](https://my-weather-app-silviag.netlify.app/).
 
 ## Available Scripts
 
